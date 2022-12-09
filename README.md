@@ -1,2 +1,2 @@
 # stamp-selling-program
-Support continuous shopping activity in a Post Office
+Program to support continuous shopping activity in a Post Office
